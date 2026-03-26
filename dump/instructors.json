@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "69c52103757d47ff56fd8f09",
+    "name": "Ramesh kale",
+    "email": "rameshkale@gmail.com",
+    "__v": 0
+  },
+  {
+    "_id": "69c521e5757d47ff56fd8f1c",
+    "name": "ganesh misal",
+    "email": "ganeshmisal@gmail.com",
+    "__v": 0
+  },
+  {
+    "_id": "69c52271a32087a35a729036",
+    "name": "Rahul Sharma",
+    "email": "rahul@gmail.com"
+  },
+  {
+    "_id": "69c52271a32087a35a729037",
+    "name": "Priya Mehta",
+    "email": "priya@gmail.com"
+  },
+  {
+    "_id": "69c52271a32087a35a729038",
+    "name": "Amit Verma",
+    "email": "amit@gmail.com"
+  },
+  {
+    "_id": "69c52271a32087a35a729039",
+    "name": "Sneha Patil",
+    "email": "sneha@gmail.com"
+  }
+]

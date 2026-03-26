@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "69c5216e757d47ff56fd8f11",
+    "name": "python",
+    "level": "basic",
+    "description": "basic level python",
+    "image": "https://via.placeholder.com/150",
+    "__v": 0
+  },
+  {
+    "_id": "69c52203757d47ff56fd8f1e",
+    "name": "react",
+    "level": "basic",
+    "description": "basic level react",
+    "image": "img_url",
+    "__v": 0
+  },
+  {
+    "_id": "69c52284a32087a35a72903a",
+    "name": "React Basics",
+    "level": "Beginner",
+    "description": "Introduction to React",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "_id": "69c52284a32087a35a72903b",
+    "name": "Node.js Advanced",
+    "level": "Advanced",
+    "description": "Deep dive into backend",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "_id": "69c52284a32087a35a72903c",
+    "name": "MongoDB Mastery",
+    "level": "Intermediate",
+    "description": "Database concepts",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "_id": "69c52284a32087a35a72903d",
+    "name": "Full Stack Development",
+    "level": "Advanced",
+    "description": "Complete web development",
+    "image": "https://via.placeholder.com/150"
+  }
+]
