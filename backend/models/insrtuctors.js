@@ -2,8 +2,8 @@ import mongoose from "mongoose";
 let schema = mongoose.Schema;
 
 const instructorsSchema = new schema({
-  name: String,
-  email: String,
+  name: { type: String, required: true },
+  email: { type: String, required: true },
 });
 const Instructor = mongoose.model("Instructor", instructorsSchema);
 
